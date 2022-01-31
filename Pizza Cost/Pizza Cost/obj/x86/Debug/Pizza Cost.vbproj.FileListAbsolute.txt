@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\bin\Debug\Pizza Cost.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\bin\Debug\Pizza Cost.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\bin\Debug\Pizza Cost.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza_Cost.Form1.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza_Cost.Resources.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza Cost.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza Cost.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza Cost.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Pizza Cost\Pizza Cost\obj\x86\Debug\Pizza Cost.pdb

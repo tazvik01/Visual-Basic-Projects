@@ -1,0 +1,21 @@
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\bin\Debug\Math tutor.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\bin\Debug\Math tutor.pdb
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\bin\Debug\Math tutor.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math_tutor.Form1.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math_tutor.Resources.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math tutor.vbproj.GenerateResource.Cache
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math tutor.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math tutor.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Math tutor\obj\x86\Debug\Math tutor.pdb
+I:\Math tutor\Math tutor\obj\x86\Debug\Math tutor.exe
+I:\Math tutor\Math tutor\obj\x86\Debug\Math tutor.xml
+I:\Math tutor\Math tutor\obj\x86\Debug\Math tutor.pdb
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math tutor.exe
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math tutor.xml
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math tutor.pdb
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\bin\Debug\Math tutor.exe
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\bin\Debug\Math tutor.pdb
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\bin\Debug\Math tutor.xml
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math_tutor.Form1.resources
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math_tutor.Resources.resources
+F:\Computer Science\Module 2\Chapter 5\Math tutor\Math tutor\obj\x86\Debug\Math tutor.vbproj.GenerateResource.Cache

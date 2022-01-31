@@ -1,0 +1,12 @@
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\bin\Debug\Watch Your Money Grow.exe
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\bin\Debug\Watch Your Money Grow.pdb
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\bin\Debug\Watch Your Money Grow.xml
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch_Your_Money_Grow.Form1.resources
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch_Your_Money_Grow.Resources.resources
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.vbproj.GenerateResource.Cache
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.exe
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.xml
+C:\Users\Lytton\Desktop\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.pdb
+F:\Computer Science\Module 3\Ch.8\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.exe
+F:\Computer Science\Module 3\Ch.8\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.xml
+F:\Computer Science\Module 3\Ch.8\Watch Your Money Grow\Watch Your Money Grow\obj\x86\Debug\Watch Your Money Grow.pdb

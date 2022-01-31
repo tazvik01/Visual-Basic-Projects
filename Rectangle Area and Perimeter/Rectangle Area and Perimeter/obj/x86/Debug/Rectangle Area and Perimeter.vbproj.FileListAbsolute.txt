@@ -1,0 +1,26 @@
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.pdb
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Form1.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Resources.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+F:\Computer Science\Module 1\Ch.3 Excercises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Form1.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Resources.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.vbproj.GenerateResource.Cache

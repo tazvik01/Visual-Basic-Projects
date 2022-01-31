@@ -1,0 +1,9 @@
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\bin\Debug\Student Names.exe
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\bin\Debug\Student Names.pdb
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\bin\Debug\Student Names.xml
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student_Names.Form1.resources
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student_Names.Resources.resources
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student Names.vbproj.GenerateResource.Cache
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student Names.exe
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student Names.xml
+F:\Comp Sci 20\Ch9VB\Student Names\Student Names\obj\x86\Debug\Student Names.pdb

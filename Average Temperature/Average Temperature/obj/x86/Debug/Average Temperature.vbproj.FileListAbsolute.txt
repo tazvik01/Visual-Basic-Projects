@@ -1,0 +1,18 @@
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\bin\Debug\Average Temperature.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\bin\Debug\Average Temperature.pdb
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\bin\Debug\Average Temperature.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average_Temperature.Form1.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average_Temperature.Resources.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average Temperature.vbproj.GenerateResource.Cache
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average Temperature.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average Temperature.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Average Temperature\obj\x86\Debug\Average Temperature.pdb
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average Temperature.exe
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average Temperature.xml
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average Temperature.pdb
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\bin\Debug\Average Temperature.exe
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\bin\Debug\Average Temperature.pdb
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\bin\Debug\Average Temperature.xml
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average_Temperature.Form1.resources
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average_Temperature.Resources.resources
+\\fs-057\studuser$\Gr10\t.ziauddin\Computer Science\Module 2\Chapter 6\Average Temperature\Average Temperature\obj\x86\Debug\Average Temperature.vbproj.GenerateResource.Cache

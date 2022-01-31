@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\bin\Debug\Variable Example.exe
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\bin\Debug\Variable Example.pdb
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\bin\Debug\Variable Example.xml
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable_Example.Form1.resources
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable_Example.Resources.resources
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable Example.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable Example.exe
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable Example.xml
+F:\Computer Science\Module 1\Ch.4\Variable Example\Variable Example\obj\x86\Debug\Variable Example.pdb

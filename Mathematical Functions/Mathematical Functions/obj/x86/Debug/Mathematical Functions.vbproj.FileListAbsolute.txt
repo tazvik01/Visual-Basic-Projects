@@ -1,0 +1,21 @@
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\bin\Debug\Mathematical Functions.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\bin\Debug\Mathematical Functions.pdb
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\bin\Debug\Mathematical Functions.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical_Functions.Form1.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical_Functions.Resources.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical Functions.vbproj.GenerateResource.Cache
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical Functions.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical Functions.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Mathematical Functions\obj\x86\Debug\Mathematical Functions.pdb
+C:\Users\Lytton\Desktop\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.exe
+C:\Users\Lytton\Desktop\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.xml
+C:\Users\Lytton\Desktop\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.pdb
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.exe
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.xml
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.pdb
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.exe
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.pdb
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.xml
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical_Functions.Form1.resources
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical_Functions.Resources.resources
+F:\Computer Science\Module 3\Ch.8\Mathematical Functions\Mathematical Functions\obj\x86\Debug\Mathematical Functions.vbproj.GenerateResource.Cache

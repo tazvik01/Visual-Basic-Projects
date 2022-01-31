@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\bin\Debug\Freinds.exe
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\bin\Debug\Freinds.pdb
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\bin\Debug\Freinds.xml
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.exe
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.xml
+F:\Computer Science\Module 3\Ch.7\Freinds\Freinds\obj\x86\Debug\Freinds.pdb

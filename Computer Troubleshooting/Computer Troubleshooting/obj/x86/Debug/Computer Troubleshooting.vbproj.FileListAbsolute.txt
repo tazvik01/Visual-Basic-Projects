@@ -1,0 +1,12 @@
+I:\Computer Troubleshooting\Computer Troubleshooting\bin\Debug\Computer Troubleshooting.exe
+I:\Computer Troubleshooting\Computer Troubleshooting\bin\Debug\Computer Troubleshooting.pdb
+I:\Computer Troubleshooting\Computer Troubleshooting\bin\Debug\Computer Troubleshooting.xml
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer_Troubleshooting.Form1.resources
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer_Troubleshooting.Resources.resources
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.vbproj.GenerateResource.Cache
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.exe
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.xml
+I:\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.pdb
+F:\Computer Science\Module 2\Chapter 5\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.exe
+F:\Computer Science\Module 2\Chapter 5\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.xml
+F:\Computer Science\Module 2\Chapter 5\Computer Troubleshooting\Computer Troubleshooting\obj\x86\Debug\Computer Troubleshooting.pdb

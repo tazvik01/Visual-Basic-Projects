@@ -1,0 +1,9 @@
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\bin\Debug\Number Occurrences.exe
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\bin\Debug\Number Occurrences.pdb
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\bin\Debug\Number Occurrences.xml
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number_Occurrences.Form1.resources
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number_Occurrences.Resources.resources
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number Occurrences.vbproj.GenerateResource.Cache
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number Occurrences.exe
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number Occurrences.xml
+F:\Comp Sci 20\Ch9VB\Number Occurrences\Number Occurrences\obj\x86\Debug\Number Occurrences.pdb

@@ -1,0 +1,9 @@
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\bin\Debug\Find String.exe
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\bin\Debug\Find String.pdb
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\bin\Debug\Find String.xml
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find_String.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find_String.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find String.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find String.exe
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find String.xml
+F:\Computer Science\Module 2\Chapter 6\Find String\Find String\obj\x86\Debug\Find String.pdb

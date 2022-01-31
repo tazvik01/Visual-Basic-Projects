@@ -1,0 +1,17 @@
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\bin\Debug\Position.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\bin\Debug\Position.pdb
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\bin\Debug\Position.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\Position.Form1.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\Position.Resources.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\Position.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\Position.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Position\obj\x86\Debug\Position.pdb
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Position\Position\obj\x86\Debug\Position.exe
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Position\Position\obj\x86\Debug\Position.xml
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Position\Position\obj\x86\Debug\Position.pdb
+F:\Computer Science\Module 1\Ch.3 Excercises\Position\Position\obj\x86\Debug\Position.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Position\Position\obj\x86\Debug\Position.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Position\Position\obj\x86\Debug\Position.pdb

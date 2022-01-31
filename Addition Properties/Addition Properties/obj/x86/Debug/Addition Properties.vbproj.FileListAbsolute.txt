@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\bin\Debug\Addition Properties.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\bin\Debug\Addition Properties.pdb
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\bin\Debug\Addition Properties.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition_Properties.Form1.resources
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition_Properties.Resources.resources
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition Properties.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition Properties.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition Properties.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Addition Properties\Addition Properties\obj\x86\Debug\Addition Properties.pdb

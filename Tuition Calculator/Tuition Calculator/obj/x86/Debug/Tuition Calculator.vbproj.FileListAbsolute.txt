@@ -1,0 +1,24 @@
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\bin\Debug\Tuition Calculator.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\bin\Debug\Tuition Calculator.pdb
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\bin\Debug\Tuition Calculator.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition_Calculator.Form1.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition_Calculator.Resources.resources
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition Calculator.vbproj.GenerateResource.Cache
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition Calculator.exe
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition Calculator.xml
+C:\Users\Lytton\AppData\Local\Temporary Projects\Tuition Calculator\obj\x86\Debug\Tuition Calculator.pdb
+C:\Users\Lytton\Desktop\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.exe
+C:\Users\Lytton\Desktop\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.xml
+C:\Users\Lytton\Desktop\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.pdb
+U:\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.exe
+U:\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.xml
+U:\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.pdb
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.exe
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.xml
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.pdb
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\bin\Debug\Tuition Calculator.exe
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\bin\Debug\Tuition Calculator.pdb
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\bin\Debug\Tuition Calculator.xml
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition_Calculator.Form1.resources
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition_Calculator.Resources.resources
+F:\Computer Science\Module 3\Ch.8\Tuition Calculator\Tuition Calculator\obj\x86\Debug\Tuition Calculator.vbproj.GenerateResource.Cache

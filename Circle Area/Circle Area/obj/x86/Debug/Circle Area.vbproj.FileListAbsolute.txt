@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\bin\Debug\Circle Area.exe
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\bin\Debug\Circle Area.pdb
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\bin\Debug\Circle Area.xml
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle_Area.Form1.resources
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle_Area.Resources.resources
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle Area.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle Area.exe
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle Area.xml
+F:\Computer Science\Module 1\Ch.4\Circle Area\Circle Area\obj\x86\Debug\Circle Area.pdb

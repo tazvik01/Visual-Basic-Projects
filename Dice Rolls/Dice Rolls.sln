@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dice Rolls", "Dice Rolls\Dice Rolls.vbproj", "{654BE306-B045-4BC5-84D5-30B74F415C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654BE306-B045-4BC5-84D5-30B74F415C7A}.Debug|x86.ActiveCfg = Debug|x86
+		{654BE306-B045-4BC5-84D5-30B74F415C7A}.Debug|x86.Build.0 = Debug|x86
+		{654BE306-B045-4BC5-84D5-30B74F415C7A}.Release|x86.ActiveCfg = Release|x86
+		{654BE306-B045-4BC5-84D5-30B74F415C7A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

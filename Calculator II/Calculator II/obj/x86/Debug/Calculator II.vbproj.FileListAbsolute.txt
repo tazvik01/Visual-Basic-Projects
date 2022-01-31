@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator_II.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator_II.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator II.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\bin\Debug\Calculator II.exe
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\bin\Debug\Calculator II.pdb
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\bin\Debug\Calculator II.xml
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator II.exe
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator II.xml
+F:\Computer Science\Module 3\Ch.7\Calculator II\Calculator II\obj\x86\Debug\Calculator II.pdb

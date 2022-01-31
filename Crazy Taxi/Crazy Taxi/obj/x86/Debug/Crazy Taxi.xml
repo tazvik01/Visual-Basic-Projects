@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CrazyTaxi
+</name>
+</assembly>
+<members>
+<member name="P:Crazy_Taxi.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources._2015_lamborghini_huracan_lp6104_coupe_rear_view">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.car_clipart_top_view_red_car_top_view_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Cars_Games_Wallpapers_Free_Download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Elise_S_Cup_rear_on_Racing_Green_184830_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Gold_Coin_Transparent_PNG_Clipart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Machovka_grey_car">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.nissan_PNG30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.STARK_carrelage_sol_et_mur_60x60_GRAPHITE_effet_beton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.tumblr_olg5ofbgQL1sbdg0wo1_400">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Crazy_Taxi.My.Resources.Resources.Unknown_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Crazy_Taxi.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

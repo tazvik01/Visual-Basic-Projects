@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\bin\Debug\Diskette Tips.exe
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\bin\Debug\Diskette Tips.pdb
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\bin\Debug\Diskette Tips.xml
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette_Tips.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette_Tips.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette Tips.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette Tips.exe
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette Tips.xml
+F:\Computer Science\Module 3\Ch.7\Diskette Tips\Diskette Tips\obj\x86\Debug\Diskette Tips.pdb

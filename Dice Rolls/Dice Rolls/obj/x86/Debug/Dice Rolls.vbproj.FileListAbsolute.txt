@@ -1,0 +1,9 @@
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.pdb
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.xml
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice_Rolls.Form1.resources
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice_Rolls.Resources.resources
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.vbproj.GenerateResource.Cache
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.exe
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.xml
+F:\Comp Sci 20\Ch9VB\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.pdb

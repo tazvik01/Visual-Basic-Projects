@@ -1,0 +1,18 @@
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.pdb
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Form1.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Resources.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.vbproj.GenerateResource.Cache
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.pdb
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.xml
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.pdb
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\bin\Debug\Factorial.exe
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\bin\Debug\Factorial.pdb
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\bin\Debug\Factorial.xml
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\Factorial\Factorial\obj\x86\Debug\Factorial.vbproj.GenerateResource.Cache

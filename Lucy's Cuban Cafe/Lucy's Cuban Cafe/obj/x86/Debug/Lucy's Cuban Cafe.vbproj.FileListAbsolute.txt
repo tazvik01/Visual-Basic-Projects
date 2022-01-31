@@ -1,0 +1,9 @@
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucy_s_Cuban_Cafe.Form1.resources
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucy_s_Cuban_Cafe.Resources.resources
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucy's Cuban Cafe.vbproj.GenerateResource.Cache
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\bin\Debug\Lucys Cuban Cafe.exe
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\bin\Debug\Lucys Cuban Cafe.pdb
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\bin\Debug\Lucys Cuban Cafe.xml
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucys Cuban Cafe.exe
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucys Cuban Cafe.xml
+F:\Comp Sci 20\Ch9VB\Lucy's Cuban Cafe\Lucy's Cuban Cafe\obj\x86\Debug\Lucys Cuban Cafe.pdb

@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\bin\Debug\Circle Circumference.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\bin\Debug\Circle Circumference.pdb
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\bin\Debug\Circle Circumference.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle_Circumference.Form1.resources
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle_Circumference.Resources.resources
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle Circumference.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle Circumference.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle Circumference.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Circle Circumference\Circle Circumference\obj\x86\Debug\Circle Circumference.pdb

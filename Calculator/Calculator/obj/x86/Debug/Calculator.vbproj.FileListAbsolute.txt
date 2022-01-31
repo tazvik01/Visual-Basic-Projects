@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\bin\Debug\Calculator.xml
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+F:\Computer Science\Module 1\Ch.4\Calculator\Calculator\obj\x86\Debug\Calculator.pdb

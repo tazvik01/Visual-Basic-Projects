@@ -1,0 +1,15 @@
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\bin\Debug\Number of Digits.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\bin\Debug\Number of Digits.pdb
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\bin\Debug\Number of Digits.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number_of_Digits.Form1.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number_of_Digits.Resources.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number of Digits.vbproj.GenerateResource.Cache
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number of Digits.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number of Digits.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Number of Digits\obj\x86\Debug\Number of Digits.pdb
+H:\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.exe
+H:\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.xml
+H:\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.pdb
+F:\Computer Science\Module 2\Chapter 5\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.exe
+F:\Computer Science\Module 2\Chapter 5\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.xml
+F:\Computer Science\Module 2\Chapter 5\Number of Digits\Number of Digits\obj\x86\Debug\Number of Digits.pdb

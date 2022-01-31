@@ -1,0 +1,59 @@
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+C:\Users\aweso\AppData\Local\Temporary Projects\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+C:\Tasin\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+C:\Tasin\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+C:\Tasin\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form2.resources
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+C:\Tasin\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+D:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+D:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+D:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form2.resources
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+D:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+U:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+U:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+U:\Final Project\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form2.resources
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+U:\Final Project\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+F:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+F:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+F:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form2.resources
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+F:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.exe
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.xml
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.pdb
+E:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.exe
+E:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.pdb
+E:\Computer Science\Crazy Taxi\Crazy Taxi\bin\Debug\Crazy Taxi.xml
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form1.resources
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Form2.resources
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy_Taxi.Resources.resources
+E:\Computer Science\Crazy Taxi\Crazy Taxi\obj\x86\Debug\Crazy Taxi.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\bin\Debug\Shell Game.exe
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\bin\Debug\Shell Game.pdb
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\bin\Debug\Shell Game.xml
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell_Game.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell_Game.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell Game.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell Game.exe
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell Game.xml
+F:\Computer Science\Module 3\Ch.7\Shell Game\Shell Game\obj\x86\Debug\Shell Game.pdb

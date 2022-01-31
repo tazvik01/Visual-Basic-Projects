@@ -1,0 +1,17 @@
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\bin\Debug\Long Jump Average.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\bin\Debug\Long Jump Average.pdb
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\bin\Debug\Long Jump Average.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\Long_Jump_Average.Form1.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\Long_Jump_Average.Resources.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\Long Jump Average.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\Long Jump Average.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Long Jump Average\obj\x86\Debug\Long Jump Average.pdb
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.exe
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.xml
+C:\Users\Rezwan Ziauddin\Desktop\Computer Science\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.pdb
+F:\Computer Science\Module 1\Ch.3 Excercises\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.exe
+F:\Computer Science\Module 1\Ch.3 Excercises\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.xml
+F:\Computer Science\Module 1\Ch.3 Excercises\Long Jump Average\Long Jump Average\obj\x86\Debug\Long Jump Average.pdb

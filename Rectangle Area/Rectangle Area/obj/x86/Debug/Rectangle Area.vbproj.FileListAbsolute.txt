@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.exe
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.pdb
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.xml
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle_Area.Form1.resources
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle_Area.Resources.resources
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle Area.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle Area.exe
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle Area.xml
+F:\Computer Science\Module 1\Ch.4\Rectangle Area\Rectangle Area\obj\x86\Debug\Rectangle Area.pdb

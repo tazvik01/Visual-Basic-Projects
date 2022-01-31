@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\bin\Debug\Number Breakdown.exe
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\bin\Debug\Number Breakdown.pdb
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\bin\Debug\Number Breakdown.xml
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number_Breakdown.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number_Breakdown.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number Breakdown.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number Breakdown.exe
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number Breakdown.xml
+F:\Computer Science\Module 3\Ch.7\Number Breakdown\Number Breakdown\obj\x86\Debug\Number Breakdown.pdb

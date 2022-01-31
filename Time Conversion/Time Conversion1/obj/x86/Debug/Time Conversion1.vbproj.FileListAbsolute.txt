@@ -1,0 +1,30 @@
+H:\Time Conversion1\Time Conversion1\bin\Debug\Time Conversion1.exe
+H:\Time Conversion1\Time Conversion1\bin\Debug\Time Conversion1.pdb
+H:\Time Conversion1\Time Conversion1\bin\Debug\Time Conversion1.xml
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time_Conversion.Form1.resources
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time_Conversion.Resources.resources
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time Conversion1.vbproj.GenerateResource.Cache
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time Conversion1.exe
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time Conversion1.xml
+H:\Time Conversion1\Time Conversion1\obj\x86\Debug\Time Conversion1.pdb
+H:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.exe
+H:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.xml
+H:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.pdb
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.exe
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.xml
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.pdb
+U:\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.exe
+U:\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.pdb
+U:\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.xml
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time_Conversion.Form1.resources
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time_Conversion.Resources.resources
+U:\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\bin\Debug\Time Conversion1.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time_Conversion.Form1.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time_Conversion.Resources.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Time Conversion\Time Conversion1\obj\x86\Debug\Time Conversion1.vbproj.GenerateResource.Cache

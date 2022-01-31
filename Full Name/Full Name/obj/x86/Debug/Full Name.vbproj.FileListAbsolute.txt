@@ -1,0 +1,18 @@
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\bin\Debug\Full Name.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\bin\Debug\Full Name.pdb
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\bin\Debug\Full Name.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full_Name.Resources.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full Name.vbproj.GenerateResource.Cache
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full Name.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full Name.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Full Name\obj\x86\Debug\Full Name.pdb
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full Name.exe
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full Name.xml
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full Name.pdb
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\bin\Debug\Full Name.exe
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\bin\Debug\Full Name.pdb
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\bin\Debug\Full Name.xml
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full_Name.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\Full Name\Full Name\obj\x86\Debug\Full Name.vbproj.GenerateResource.Cache

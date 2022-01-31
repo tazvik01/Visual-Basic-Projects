@@ -1,0 +1,12 @@
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\bin\Debug\Prime Number.exe
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\bin\Debug\Prime Number.pdb
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\bin\Debug\Prime Number.xml
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime_Number.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime_Number.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime Number.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime Number.exe
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime Number.xml
+F:\Computer Science\Module 2\Chapter 6\Prime Number\Prime Number\obj\x86\Debug\Prime Number.pdb
+F:\Computer Science\Module 2\Chapter 5\Prime Number\Prime Number\obj\x86\Debug\Prime Number.exe
+F:\Computer Science\Module 2\Chapter 5\Prime Number\Prime Number\obj\x86\Debug\Prime Number.xml
+F:\Computer Science\Module 2\Chapter 5\Prime Number\Prime Number\obj\x86\Debug\Prime Number.pdb

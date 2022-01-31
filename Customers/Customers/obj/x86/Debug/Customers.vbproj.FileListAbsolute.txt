@@ -1,0 +1,18 @@
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\bin\Debug\Customers.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\bin\Debug\Customers.pdb
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\bin\Debug\Customers.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.Form1.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.Resources.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.vbproj.GenerateResource.Cache
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\Customers\obj\x86\Debug\Customers.pdb
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.exe
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.xml
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.pdb
+F:\Comp Sci 20\Ch9VB\Customers\Customers\bin\Debug\Customers.exe
+F:\Comp Sci 20\Ch9VB\Customers\Customers\bin\Debug\Customers.pdb
+F:\Comp Sci 20\Ch9VB\Customers\Customers\bin\Debug\Customers.xml
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.Form1.resources
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.Resources.resources
+F:\Comp Sci 20\Ch9VB\Customers\Customers\obj\x86\Debug\Customers.vbproj.GenerateResource.Cache

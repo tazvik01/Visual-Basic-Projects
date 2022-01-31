@@ -1,0 +1,21 @@
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\bin\Debug\Digits Of A Number.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\bin\Debug\Digits Of A Number.pdb
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\bin\Debug\Digits Of A Number.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits_Of_A_Number.Form1.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits_Of_A_Number.Resources.resources
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits Of A Number.vbproj.GenerateResource.Cache
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits Of A Number.exe
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits Of A Number.xml
+C:\Users\Rezwan Ziauddin\AppData\Local\Temporary Projects\Digits Of A Number\obj\x86\Debug\Digits Of A Number.pdb
+D:\Docs\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.exe
+D:\Docs\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.xml
+D:\Docs\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\bin\Debug\Digits Of A Number.exe
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\bin\Debug\Digits Of A Number.pdb
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\bin\Debug\Digits Of A Number.xml
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits_Of_A_Number.Form1.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits_Of_A_Number.Resources.resources
+F:\Computer Science\Module 1\Ch.4 Excecises\Digits Of A Number\Digits Of A Number\obj\x86\Debug\Digits Of A Number.vbproj.GenerateResource.Cache

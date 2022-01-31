@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Circle Circumference", "Circle Circumference\Circle Circumference.vbproj", "{09476D0F-5F88-4E85-A1B0-C821D548CF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09476D0F-5F88-4E85-A1B0-C821D548CF04}.Debug|x86.ActiveCfg = Debug|x86
+		{09476D0F-5F88-4E85-A1B0-C821D548CF04}.Debug|x86.Build.0 = Debug|x86
+		{09476D0F-5F88-4E85-A1B0-C821D548CF04}.Release|x86.ActiveCfg = Release|x86
+		{09476D0F-5F88-4E85-A1B0-C821D548CF04}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

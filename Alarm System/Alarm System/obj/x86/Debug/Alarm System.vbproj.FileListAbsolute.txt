@@ -1,0 +1,9 @@
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\bin\Debug\Alarm System.exe
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\bin\Debug\Alarm System.pdb
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\bin\Debug\Alarm System.xml
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm_System.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm_System.Resources.resources
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm System.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm System.exe
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm System.xml
+F:\Computer Science\Module 3\Ch.7\Alarm System\Alarm System\obj\x86\Debug\Alarm System.pdb

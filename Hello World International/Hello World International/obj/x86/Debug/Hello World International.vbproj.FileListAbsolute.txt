@@ -1,0 +1,9 @@
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\bin\Debug\Hello World International.exe
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\bin\Debug\Hello World International.pdb
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\bin\Debug\Hello World International.xml
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello_World_International.Form1.resources
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello_World_International.Resources.resources
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello World International.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello World International.exe
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello World International.xml
+F:\Computer Science\Module 1\Ch. 3\Hello World International\Hello World International\obj\x86\Debug\Hello World International.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Bill Calculator">
+</Property><Property Name="Solution File" Value="Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Bill Calculator.sln">
+</Property><Property Name="User Options File" Value="Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Bill Calculator.suo">
+</Property><Property Name="Date" Value="Thursday, May 24, 2012">
+</Property><Property Name="Time" Value="8:48 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Bill Calculator.sln" Description="File successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Bill Calculator.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Bill Calculator.suo" Description="File successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Bill Calculator.suo">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="Bill Calculator.vbproj" Description="Project file successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Bill Calculator.vbproj">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="Bill Calculator.vbproj.user" Description="Project user file successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Bill Calculator.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="AssemblyInfo.vb" Description="File successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="Form1.vb" Description="File successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="Form1.resx" Description="File successfully backed up as Q:\Develop\Ross\Lawrence_vbNet\ASSESSMENT\HANDS-ON DATA FILES\Bill Calculator\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Bill Calculator" Source="Bill Calculator.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bill Calculator" Source="Bill Calculator.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="Bill Calculator" Source="Bill Calculator.vbproj" Description="">
+</Event><Event ErrorLevel="0" Project="" Source="Bill Calculator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Bill Calculator.sln" Description="Converted">
+</Event></UpgradeLog>

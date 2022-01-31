@@ -1,0 +1,26 @@
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\bin\Bill Calculator.exe
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\bin\Bill Calculator.pdb
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\bin\Bill Calculator.xml
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\ResolveAssemblyReference.cache
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\Bill_Calculator.Form1.resources
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\GenerateResource.read.1.tlog
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\GenerateResource.write.1.tlog
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.exe
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.xml
+Q:\Hand-Out\CTS\Programming_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.pdb
+Q:\Develop\Ross\Lawrence_vbNet\DATA FILES\Bill Calculator\obj\Debug\Bill Calculator.exe
+Q:\Develop\Ross\Lawrence_vbNet\DATA FILES\Bill Calculator\obj\Debug\Bill Calculator.xml
+Q:\Develop\Ross\Lawrence_vbNet\DATA FILES\Bill Calculator\obj\Debug\Bill Calculator.pdb
+Q:\Develop\Ross\Lawrence_vbNet\DATA FILES\Bill Calculator\obj\Debug\Bill_Calculator.Form1.resources
+Q:\Develop\Ross\Lawrence_vbNet\DATA FILES\Bill Calculator\obj\Debug\Bill Calculator.vbproj.GenerateResource.Cache
+Q:\Hand-Out\CTS\Computer Science_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.exe
+Q:\Hand-Out\CTS\Computer Science_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.xml
+Q:\Hand-Out\CTS\Computer Science_Ross\Data Files\Bill Calculator\obj\Debug\Bill Calculator.pdb
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\obj\Debug\Bill Calculator.exe
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\obj\Debug\Bill Calculator.xml
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\obj\Debug\Bill Calculator.pdb
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\bin\Bill Calculator.exe
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\bin\Bill Calculator.pdb
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\bin\Bill Calculator.xml
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\obj\Debug\Bill_Calculator.Form1.resources
+F:\Computer Science\Module 3\Ch.7\Bill Calculator\obj\Debug\Bill Calculator.vbproj.GenerateResource.Cache

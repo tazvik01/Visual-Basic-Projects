@@ -1,0 +1,18 @@
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\bin\Debug\String Test.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\bin\Debug\String Test.pdb
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\bin\Debug\String Test.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String_Test.Form1.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String_Test.Resources.resources
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String Test.vbproj.GenerateResource.Cache
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String Test.exe
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String Test.xml
+C:\Users\t.ziauddin\AppData\Local\Temporary Projects\String Test\obj\x86\Debug\String Test.pdb
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String Test.exe
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String Test.xml
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String Test.pdb
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\bin\Debug\String Test.exe
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\bin\Debug\String Test.pdb
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\bin\Debug\String Test.xml
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String_Test.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String_Test.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\String Test\String Test\obj\x86\Debug\String Test.vbproj.GenerateResource.Cache

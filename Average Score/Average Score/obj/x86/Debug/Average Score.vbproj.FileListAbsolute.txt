@@ -1,0 +1,9 @@
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\bin\Debug\Average Score.exe
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\bin\Debug\Average Score.pdb
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\bin\Debug\Average Score.xml
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average_Score.Form1.resources
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average_Score.Resources.resources
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average Score.vbproj.GenerateResource.Cache
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average Score.exe
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average Score.xml
+F:\Computer Science\Module 2\Chapter 6\Average Score\Average Score\obj\x86\Debug\Average Score.pdb
